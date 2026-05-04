@@ -16,6 +16,7 @@ Make sure you have the following installed:
 * pip (Python package manager)
 * FLASK
 * Django
+* PYPDF2
 
 ---
 
